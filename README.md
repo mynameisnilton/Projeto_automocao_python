@@ -1,3 +1,3 @@
-# Projeto_automocao_python
+# Projeto automocao Python
 
 Projeto desenvolvido no curso da HashTag Treinamento - Jornada Python. Estudo de automação de cadastro de itens, com Python
